@@ -8,7 +8,7 @@ nav_order: 1
 
 A mod manager for TT Games LEGO titles — handles DAT extraction, mod installation, conflict detection, and automatic merging of character/level/audio data files.
 
-[Download](https://github.com/Glitxhhh/TTGamesLegoModManager/releases){ .btn .btn-primary } [GitHub](https://github.com/Glitxhhh/TTGamesLegoModManager){ .btn }
+[Download](https://github.com/Glitxhhh/TTGamesLegoModManagerDocs/releases){ .btn .btn-primary } [GitHub](https://github.com/Glitxhhh/TTGamesLegoModManagerDocs){ .btn }
 
 ---
 

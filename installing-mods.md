@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Prerequisites
 
-1. Download `TTGamesLegoModManager.exe` from the [Releases](https://github.com/Glitxhhh/TTGamesLegoModManager/releases) page
+1. Download `TTGamesLegoModManager.exe` from the [Releases](https://github.com/Glitxhhh/TTGamesLegoModManagerDocs/releases) page
 2. Run it — no installer needed
 3. Click **Scan for Games** to auto-detect your installed LEGO titles
 
