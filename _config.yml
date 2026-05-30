@@ -1,6 +1,6 @@
 title: TTGames Lego Mod Manager — Documentation
 description: Mod manager for TT Games LEGO titles and modding reference for mod authors
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 url: https://glitxhhh.github.io/TTGamesLegoModManager
 
 logo: assets/logo.png
@@ -18,4 +18,5 @@ nav_sort: case_insensitive
 footer_content: "By <a href='https://github.com/Glitxhhh'>Glitxh</a> &mdash; TTGames modding resources: <a href='https://ttmodding.com'>ttmodding.com</a>"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
